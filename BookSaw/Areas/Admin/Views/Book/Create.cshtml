@@ -1,0 +1,67 @@
+﻿@using BookSaw.Models
+@model Book
+<div class="container">
+    <h2>Create Product</h2>
+    <form asp-action="Create" method="post" enctype="multipart/form-data">
+        <div class="form-group">
+            <label asp-for="ImgUrl">Image</label>
+            <input asp-for="ImgUrl" type="text" class="form-control" id="ImgUrl" name="ImgUrl" placeholder="Enter ImgUrl" />
+        </div>
+
+
+
+        <div class="form-group">
+            <label for="Name">Title</label>
+            <input asp-for="Title" type="text" class="form-control" id="Title" name="Title" placeholder="Enter Title" />
+        </div>
+        <span asp-validation-for="Title" class="text-danger"></span>
+
+
+        <div class="form-group">
+            <label for="Name">Author</label>
+            <input asp-for="Author" type="text" class="form-control" id="Author" name="Author" placeholder="Enter Author" />
+        </div>
+        <span asp-validation-for="Author" class="text-danger"></span>
+
+
+        <div class="form-group">
+            <label for="Price">Price</label>
+            <input asp-for="Price" type="number" step="0.01" class="form-control" id="Price" name="Price" placeholder="Enter price" />
+        </div>
+        <span asp-validation-for="Price" class="text-danger"></span>
+
+
+        <div class="form-group">
+            <label for="Description">Description</label>
+            <textarea asp-for="Description" class="form-control" id="Description" name="Description" placeholder="Enter description"></textarea>
+        </div>
+
+
+        <div class="form-group">
+            <label for="Publisher">Publisher</label>
+            <input asp-for="Publisher" type="text" class="form-control" id="Publisher" name="Publisher" placeholder="Enter Publisher" />
+        </div>
+
+
+        <div class="form-group">
+            <label for="Material">ISBN</label>
+            <input asp-for="ISBN" type="text" class="form-control" id="ISBN" name="ISBN" placeholder="Enter ISBN" />
+        </div>
+        <span asp-validation-for="ISBN" class="text-danger"></span>
+
+
+        <div class="form-group">
+            <label for="Language">Language</label>
+            <input asp-for="Language" type="text" class="form-control" id="Language" name="Language" placeholder="Enter Language" />
+        </div>
+
+
+        <div class="form-group">
+            <label for="Pages">Pages</label>
+            <input asp-for="Pages" type="number" class="form-control" id="Pages" name="Pages" placeholder="Enter Pages" />
+        </div>
+
+
+        <button type="submit" class="btn btn-primary">Create</button>
+    </form>
+</div>
