@@ -13,14 +13,14 @@ namespace BookSaw.Controllers
         {
             _context = context;
         }
-        public  IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            List<Book> books = _context.Books.Include(b=>b.Categories).ToList();
+            List<Book> books = await _context.Books.Include(b=>b.Categories).ToListAsync();
             return View(books);
         }
-        public IActionResult Detail(int id)
+        public async Task<IActionResult> Detail(int id)
         {
-            var book=_context.Books.Include(b=>b.Categories).FirstOrDefault(b=>b.Id==id);
+            var book = await _context.Books.Include(b => b.Categories).FirstOrDefaultAsync(b => b.Id == id);
             if (book == null) return NotFound();
             return View(book);
         }

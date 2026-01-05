@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\BookSaw\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5B0645CB-FA66-4D57-88D2-4A534CD9CBD9}|BookSaw\\BookSaw.csproj|c:\\users\\user\\desktop\\booksaw\\booksaw\\areas\\admin\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0645CB-FA66-4D57-88D2-4A534CD9CBD9}|BookSaw\\BookSaw.csproj|solutionrelative:booksaw\\areas\\admin\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0645CB-FA66-4D57-88D2-4A534CD9CBD9}|BookSaw\\BookSaw.csproj|c:\\users\\user\\desktop\\booksaw\\booksaw\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0645CB-FA66-4D57-88D2-4A534CD9CBD9}|BookSaw\\BookSaw.csproj|solutionrelative:booksaw\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0645CB-FA66-4D57-88D2-4A534CD9CBD9}|BookSaw\\BookSaw.csproj|c:\\users\\user\\desktop\\booksaw\\booksaw\\dal\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0645CB-FA66-4D57-88D2-4A534CD9CBD9}|BookSaw\\BookSaw.csproj|solutionrelative:booksaw\\dal\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0645CB-FA66-4D57-88D2-4A534CD9CBD9}|BookSaw\\BookSaw.csproj|c:\\users\\user\\desktop\\booksaw\\booksaw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0645CB-FA66-4D57-88D2-4A534CD9CBD9}|BookSaw\\BookSaw.csproj|solutionrelative:booksaw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5B0645CB-FA66-4D57-88D2-4A534CD9CBD9}|BookSaw\\BookSaw.csproj|c:\\users\\user\\desktop\\booksaw\\booksaw\\areas\\admin\\views\\book\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5B0645CB-FA66-4D57-88D2-4A534CD9CBD9}|BookSaw\\BookSaw.csproj|solutionrelative:booksaw\\areas\\admin\\views\\book\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -11,20 +27,20 @@
       "RelativeMoniker": "D:0:0:{5B0645CB-FA66-4D57-88D2-4A534CD9CBD9}|BookSaw\\BookSaw.csproj|solutionrelative:booksaw\\areas\\admin\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B0645CB-FA66-4D57-88D2-4A534CD9CBD9}|BookSaw\\BookSaw.csproj|c:\\users\\user\\desktop\\booksaw\\booksaw\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B0645CB-FA66-4D57-88D2-4A534CD9CBD9}|BookSaw\\BookSaw.csproj|solutionrelative:booksaw\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5B0645CB-FA66-4D57-88D2-4A534CD9CBD9}|BookSaw\\BookSaw.csproj|c:\\users\\user\\desktop\\booksaw\\booksaw\\utilities\\imageupload\\imageextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0645CB-FA66-4D57-88D2-4A534CD9CBD9}|BookSaw\\BookSaw.csproj|solutionrelative:booksaw\\utilities\\imageupload\\imageextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0645CB-FA66-4D57-88D2-4A534CD9CBD9}|BookSaw\\BookSaw.csproj|c:\\users\\user\\desktop\\booksaw\\booksaw\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0645CB-FA66-4D57-88D2-4A534CD9CBD9}|BookSaw\\BookSaw.csproj|solutionrelative:booksaw\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5B0645CB-FA66-4D57-88D2-4A534CD9CBD9}|BookSaw\\BookSaw.csproj|c:\\users\\user\\desktop\\booksaw\\booksaw\\areas\\admin\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5B0645CB-FA66-4D57-88D2-4A534CD9CBD9}|BookSaw\\BookSaw.csproj|solutionrelative:booksaw\\areas\\admin\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B0645CB-FA66-4D57-88D2-4A534CD9CBD9}|BookSaw\\BookSaw.csproj|c:\\users\\user\\desktop\\booksaw\\booksaw\\areas\\admin\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B0645CB-FA66-4D57-88D2-4A534CD9CBD9}|BookSaw\\BookSaw.csproj|solutionrelative:booksaw\\areas\\admin\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B0645CB-FA66-4D57-88D2-4A534CD9CBD9}|BookSaw\\BookSaw.csproj|c:\\users\\user\\desktop\\booksaw\\booksaw\\dal\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B0645CB-FA66-4D57-88D2-4A534CD9CBD9}|BookSaw\\BookSaw.csproj|solutionrelative:booksaw\\dal\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5B0645CB-FA66-4D57-88D2-4A534CD9CBD9}|BookSaw\\BookSaw.csproj|c:\\users\\user\\desktop\\booksaw\\booksaw\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0645CB-FA66-4D57-88D2-4A534CD9CBD9}|BookSaw\\BookSaw.csproj|solutionrelative:booksaw\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5B0645CB-FA66-4D57-88D2-4A534CD9CBD9}|BookSaw\\BookSaw.csproj|c:\\users\\user\\desktop\\booksaw\\booksaw\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -33,18 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5B0645CB-FA66-4D57-88D2-4A534CD9CBD9}|BookSaw\\BookSaw.csproj|c:\\users\\user\\desktop\\booksaw\\booksaw\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5B0645CB-FA66-4D57-88D2-4A534CD9CBD9}|BookSaw\\BookSaw.csproj|solutionrelative:booksaw\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B0645CB-FA66-4D57-88D2-4A534CD9CBD9}|BookSaw\\BookSaw.csproj|c:\\users\\user\\desktop\\booksaw\\booksaw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B0645CB-FA66-4D57-88D2-4A534CD9CBD9}|BookSaw\\BookSaw.csproj|solutionrelative:booksaw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B0645CB-FA66-4D57-88D2-4A534CD9CBD9}|BookSaw\\BookSaw.csproj|c:\\users\\user\\desktop\\booksaw\\booksaw\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B0645CB-FA66-4D57-88D2-4A534CD9CBD9}|BookSaw\\BookSaw.csproj|solutionrelative:booksaw\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B0645CB-FA66-4D57-88D2-4A534CD9CBD9}|BookSaw\\BookSaw.csproj|c:\\users\\user\\desktop\\booksaw\\booksaw\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B0645CB-FA66-4D57-88D2-4A534CD9CBD9}|BookSaw\\BookSaw.csproj|solutionrelative:booksaw\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5B0645CB-FA66-4D57-88D2-4A534CD9CBD9}|BookSaw\\BookSaw.csproj|c:\\users\\user\\desktop\\booksaw\\booksaw\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -62,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,107 +74,110 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "ImageExtension.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\BookSaw\\BookSaw\\Utilities\\ImageUpload\\ImageExtension.cs",
+              "RelativeDocumentMoniker": "BookSaw\\Utilities\\ImageUpload\\ImageExtension.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\BookSaw\\BookSaw\\Utilities\\ImageUpload\\ImageExtension.cs",
+              "RelativeToolTip": "BookSaw\\Utilities\\ImageUpload\\ImageExtension.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T20:54:04.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\BookSaw\\BookSaw\\Areas\\Admin\\Views\\Book\\Update.cshtml",
               "RelativeDocumentMoniker": "BookSaw\\Areas\\Admin\\Views\\Book\\Update.cshtml",
               "ToolTip": "C:\\Users\\user\\Desktop\\BookSaw\\BookSaw\\Areas\\Admin\\Views\\Book\\Update.cshtml",
               "RelativeToolTip": "BookSaw\\Areas\\Admin\\Views\\Book\\Update.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAkAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-29T08:16:43.398Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\BookSaw\\BookSaw\\Areas\\Admin\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "BookSaw\\Areas\\Admin\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\BookSaw\\BookSaw\\Areas\\Admin\\Controllers\\BookController.cs",
+              "RelativeToolTip": "BookSaw\\Areas\\Admin\\Controllers\\BookController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T16:47:14.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\BookSaw\\BookSaw\\Models\\Book.cs",
               "RelativeDocumentMoniker": "BookSaw\\Models\\Book.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\BookSaw\\BookSaw\\Models\\Book.cs",
               "RelativeToolTip": "BookSaw\\Models\\Book.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAASwAsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-28T16:34:54.727Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "BookDbContext.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\BookSaw\\BookSaw\\DAL\\BookDbContext.cs",
               "RelativeDocumentMoniker": "BookSaw\\DAL\\BookDbContext.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\BookSaw\\BookSaw\\DAL\\BookDbContext.cs",
               "RelativeToolTip": "BookSaw\\DAL\\BookDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T19:38:09.661Z"
+              "WhenOpened": "2025-12-28T19:38:09.661Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\BookSaw\\BookSaw\\Areas\\Admin\\Views\\Book\\Create.cshtml",
               "RelativeDocumentMoniker": "BookSaw\\Areas\\Admin\\Views\\Book\\Create.cshtml",
               "ToolTip": "C:\\Users\\user\\Desktop\\BookSaw\\BookSaw\\Areas\\Admin\\Views\\Book\\Create.cshtml",
               "RelativeToolTip": "BookSaw\\Areas\\Admin\\Views\\Book\\Create.cshtml",
-              "ViewState": "AgIAACgAAAAAAAAAAAAcwEIAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-28T18:49:04.355Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BookController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\BookSaw\\BookSaw\\Areas\\Admin\\Controllers\\BookController.cs",
-              "RelativeDocumentMoniker": "BookSaw\\Areas\\Admin\\Controllers\\BookController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\BookSaw\\BookSaw\\Areas\\Admin\\Controllers\\BookController.cs",
-              "RelativeToolTip": "BookSaw\\Areas\\Admin\\Controllers\\BookController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAmwBQAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T16:47:14.443Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\BookSaw\\BookSaw\\Areas\\Admin\\Views\\Book\\Index.cshtml",
               "RelativeDocumentMoniker": "BookSaw\\Areas\\Admin\\Views\\Book\\Index.cshtml",
               "ToolTip": "C:\\Users\\user\\Desktop\\BookSaw\\BookSaw\\Areas\\Admin\\Views\\Book\\Index.cshtml",
               "RelativeToolTip": "BookSaw\\Areas\\Admin\\Views\\Book\\Index.cshtml",
-              "ViewState": "AgIAABMAAAAAAAAAAAAcwDQAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-28T16:31:41.898Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-28T16:31:41.898Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\BookSaw\\BookSaw\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "BookSaw\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\BookSaw\\BookSaw\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "BookSaw\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T16:12:39.408Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\BookSaw\\BookSaw\\Program.cs",
               "RelativeDocumentMoniker": "BookSaw\\Program.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\BookSaw\\BookSaw\\Program.cs",
               "RelativeToolTip": "BookSaw\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBsAAABWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T16:00:54.058Z"
+              "WhenOpened": "2025-12-28T16:00:54.058Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Detail.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\BookSaw\\BookSaw\\Views\\Home\\Detail.cshtml",
               "RelativeDocumentMoniker": "BookSaw\\Views\\Home\\Detail.cshtml",
@@ -182,7 +189,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\BookSaw\\BookSaw\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BookSaw\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\BookSaw\\BookSaw\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BookSaw\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T14:56:09.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\BookSaw\\BookSaw\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "BookSaw\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\BookSaw\\BookSaw\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "BookSaw\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T16:12:39.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\BookSaw\\BookSaw\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "BookSaw\\Views\\Home\\Index.cshtml",
@@ -194,7 +225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\BookSaw\\BookSaw\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "BookSaw\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
@@ -206,7 +237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\BookSaw\\BookSaw\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "RelativeDocumentMoniker": "BookSaw\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
@@ -215,18 +246,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-28T16:14:38.671Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\BookSaw\\BookSaw\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "BookSaw\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\BookSaw\\BookSaw\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "BookSaw\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBUAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T14:56:09.469Z"
             }
           ]
         }

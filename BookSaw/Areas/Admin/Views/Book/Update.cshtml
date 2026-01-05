@@ -2,12 +2,12 @@
 @model Book
 <div class="container">
     <h2>Update Product</h2>
-    <form asp-action="Update" method="post" enctype="multipart/form-data">
+    <form asp-controller="Book" asp-action="Update" method="post">
         <div class="form-group">
-            <label asp-for="ImgUrl">Image</label>
-            <input asp-for="ImgUrl" type="text" class="form-control" id="ImgUrl" name="ImgUrl" placeholder="Enter ImgUrl" />
+            <label asp-for="ImageFile">Image</label>
+            <input asp-for="ImageFile"  class="form-control" id="ImageFile" name="ImageFile" placeholder="Enter ImageFile" />
         </div>
-
+        <span asp-validation-for="ImageFile" class="text-danger"></span>
 
 
         <div class="form-group">
@@ -62,6 +62,6 @@
         </div>
 
 
-        <button type="submit" class="btn btn-primary">Create</button>
+        <button type="submit" class="btn btn-primary">Update</button>
     </form>
 </div>

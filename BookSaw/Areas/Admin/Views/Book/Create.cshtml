@@ -4,9 +4,10 @@
     <h2>Create Product</h2>
     <form asp-action="Create" method="post" enctype="multipart/form-data">
         <div class="form-group">
-            <label asp-for="ImgUrl">Image</label>
-            <input asp-for="ImgUrl" type="text" class="form-control" id="ImgUrl" name="ImgUrl" placeholder="Enter ImgUrl" />
+            <label asp-for="ImageFile">Image</label>
+            <input asp-for="ImageFile" class="form-control" id="ImageFile" name="ImageFile" placeholder="Enter ImageFile"/>
         </div>
+        <span asp-validation-for="ImageFile" class="text-danger"></span>
 
 
 
